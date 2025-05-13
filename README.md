@@ -226,18 +226,18 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Movie Ticket Booking System</h3>
+        <h3 align="center">FIERCE Finance</h3>
         <div align="center">
-          <a href="https://github.com/0mptll/MovieTicketBookings" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0mptll&repo=MovieTicketBookings&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117">
+          <a href="https://github.com/0mptll/FIERCE_Hackathon" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0mptll&repo=FIERCE_Hackathon&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117">
           </a>
           <p>
-            <a href="https://github.com/0mptll/MovieTicketBookings" target="_blank">
+            <a href="https://github.com/0mptll/FIERCE_Hackathon" target="_blank">
               <img src="https://img.shields.io/badge/Code-View_on_GitHub-6C63FF?style=for-the-badge&logo=github">
             </a>
           </p>
-          <p><strong>Tech Stack:</strong> C#, CSS, ASP.NET</p>
-          <p>An online system to browse movies, book tickets, and manage reservations with a smooth, user-friendly interface built with ASP.NET.</p>
+          <p><strong>Tech Stack:</strong> React.js, ML,Spring Boot, Bootstrap MySQL, Python</p>
+          <p>AI-powered credit scoring platform bringing financial inclusion to millions of rural and informal workers in India who lack traditional credit history.</p>
         </div>
       </td>
     </tr>
